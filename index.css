@@ -1,0 +1,33 @@
+body{
+    color: lavender;
+    background: #222;
+}
+
+/* 多選擇器共用 */
+div.poetry, p{
+    color: lightgreen;
+    line-height: 1.5em;
+}
+
+h1{
+    color: gold;
+    font-family: DFKai-SB, BiauKai, arial;
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: 7px;
+}
+
+blockquote { color: deepskyblue; }
+
+strong { color: #FF8C00; }
+
+td[align="center"]{
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+#mariolink{
+    font-size: 100px;
+    font-family: Rockwell, arial;
+    font-weight: bolder;
+}

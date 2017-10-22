@@ -1,0 +1,27 @@
+#mario img{
+    width: 100px;
+    margin-left: 150px;
+}
+
+div.joint, div.pipe{
+    background-color: lightgreen;
+    border-color: green;
+}
+
+div.joint{
+    width: 200px; 
+    height: 50px;
+    border-style: double solid dotted;
+    margin-left: 100px;
+}
+
+div.pipe{
+    width: 150px; 
+    height: 200px; 
+    border-style: none solid solid;
+    margin-left: 125px;
+}
+
+div.ground img{
+    width: 100px;
+}
